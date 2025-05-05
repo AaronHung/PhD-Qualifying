@@ -1,4 +1,4 @@
-# Operating System Concepts – 筆記整理 (Chapters 1–3)
+# Operating System Concepts – 筆記整理 (Chapters 1–21)
 
 ---
 
